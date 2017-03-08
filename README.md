@@ -4,4 +4,4 @@ This is the site where I'll be uploading all my datascience work. I usually work
 
 Thanks for visiting !
 
-Proudly build by -- [Github Pages (https://pages.github.com)]
+Proudly supported by -- [Github Pages (https://pages.github.com)]
