@@ -1,4 +1,4 @@
-## Welcome to my Data Blog
+## Welcome to my Data Blog !
 
 This is the site where I'll be uploading all my datascience work. I usually work with R and Python and most of the work will be in format of the Jupyter Notebook.
 
