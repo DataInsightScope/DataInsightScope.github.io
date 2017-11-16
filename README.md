@@ -7,5 +7,6 @@ Thanks for visiting !
 
 ## Blog 1: [Understanding Crime in Humans !](https://chiragrankja456.github.io/notebook_pub.html)
 
+## Blog 2: [TMDB 5000 Movies!](https://chiragrankja456.github.io/TMDB_Movies.html)
 
 Proudly supported by -- [Github Pages](https://pages.github.com/)
